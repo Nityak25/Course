@@ -1,7 +1,7 @@
 """
 1.introduce about bot to user 
-2.ask user name
-3.wish user with his name 
+2.ask user name  
+3.wish user with his name   
 4.give list of courses from vedic with coach name and info of that course and ask user to select course
 5.give sessions names realated to users selection and ask user to select the session number 
 6.privode session link to user 
@@ -22,7 +22,7 @@ def linkgetter(course_num):
 
     #Building Chatbots with Google Assistant Workshop
     elif course_num==4:
-        link=["https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTFkNjM0M2UtY2ZiZC00YTViLWJiMTAtZDk3NDg5YmE3NjYw%40thread.v2/0?context=%7b%22Tid%22%3a%2283187130-08a6-47ca-9d15-94facab49d99%22%2c%22Oid%22%3a%22582ccf99-7f9c-444d-a5c6-eacab40021b0%22%2c%22IsBroadcastMeeting%22%3atrue%7d","https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGI5N2ZjNGUtYzhiNy00ZWZhLTg2YzgtNjdmNTM5YTE5NTE4%40thread.v2/0?context=%7b%22Tid%22%3a%2283187130-08a6-47ca-9d15-94facab49d99%22%2c%22Oid%22%3a%22582ccf99-7f9c-444d-a5c6-eacab40021b0%22%2c%22IsBroadcastMeeting%22%3atrue%7d"]
+        link=["https://teams .microsoft.com/l/meetup-join/19%3ameeting_NTFkNjM0M2UtY2ZiZC00YTViLWJiMTAtZDk3NDg5YmE3NjYw%40thread.v2/0?context=%7b%22Tid%22%3a%2283187130-08a6-47ca-9d15-94facab49d99%22%2c%22Oid%22%3a%22582ccf99-7f9c-444d-a5c6-eacab40021b0%22%2c%22IsBroadcastMeeting%22%3atrue%7d","https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGI5N2ZjNGUtYzhiNy00ZWZhLTg2YzgtNjdmNTM5YTE5NTE4%40thread.v2/0?context=%7b%22Tid%22%3a%2283187130-08a6-47ca-9d15-94facab49d99%22%2c%22Oid%22%3a%22582ccf99-7f9c-444d-a5c6-eacab40021b0%22%2c%22IsBroadcastMeeting%22%3atrue%7d"]
     
 
 
@@ -52,7 +52,7 @@ def linkgetter(course_num):
 
 
 
-    #it will give the link for user selected class
+    #it will give the link for user selected class   
     try:
         class_link=link[class_num-1]
         print("Recorded video link of class you have selected is here :")
