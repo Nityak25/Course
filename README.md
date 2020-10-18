@@ -6,6 +6,10 @@
 2.K.Nitya Sujana - 18pa1a1225<br/>
 3.Karthik - 19pa1a05d4
 
+## Youtube link for the demo video of the Chatbot
+https://youtu.be/hYlryATgiLI
+
+
 ## Description of the Chat Bot
 The ChatBot that we had implimented can give the list of all courses from the VEDIC platform and also gives the recorded session links for all the courses
 
