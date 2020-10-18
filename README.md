@@ -29,11 +29,11 @@ The ChatBot that we had implimented can give the list of all courses from the VE
  
 ##### if the input is valid it will proceed and if not it goes to exception.
 
-### fourth step
+### Fourth step
 ---
 * By Course_info() function we can get all about course and classes and user have to select the class
 
-### five step
+### Five step
 ---
 * By Linkgetter() function we can get class link<br/> 
 * ChatBot will give the link of the recorded session for the class which was selected by the user.
