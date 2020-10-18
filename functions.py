@@ -61,7 +61,7 @@ def linkgetter(course_num):
         print("If you want any other information plase contact me i am available always for u")
 
     except:
-        print("Sorry you have choosen a wrong class number")
+        print("Sorry you have choosen a wrong class number :(")
     
     
     
