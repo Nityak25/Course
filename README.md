@@ -10,7 +10,6 @@
 The ChatBot that we had implimented can give the list of all courses from the VEDIC platform and also gives the recorded session links for all the courses
 
 ## Working of the Chat Bot
----
 ### First step
 ---
 * By greeting() function it welcomes you to the chat bot<br/>
