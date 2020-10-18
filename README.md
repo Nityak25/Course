@@ -50,6 +50,10 @@ The ChatBot that we had implimented can give the list of all courses from the VE
 
 ## Here are some performance pictures of the ChatBot
 ![pic1](https://user-images.githubusercontent.com/72606000/96372951-1bd2f780-1187-11eb-9a68-bcd4cac4bd81.jpg)
+![pic2](https://user-images.githubusercontent.com/72606000/96373019-7ff5bb80-1187-11eb-8d87-05e1767e0b4b.jpg)
+![pic3](https://user-images.githubusercontent.com/72606000/96373022-85530600-1187-11eb-80f4-1732064f59cd.jpg)
+![pic4](https://user-images.githubusercontent.com/72606000/96373024-897f2380-1187-11eb-9e88-b0a2dbba0d44.jpg)
+
 
 
 ## Youtube link for the demo video of the Chatbot
