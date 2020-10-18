@@ -27,7 +27,7 @@ The ChatBot that we had implimented can give the list of all courses from the VE
  * ChatBot will listout the courses list of VEDIC platform with numbering and it also asks user to enter course number of which course he/she wants to do.
 <br/>
  
-if the input is valid it will proceed and if not it goes to exception.
+##### if the input is valid it will proceed and if not it goes to exception.
 
 ### fourth step
 ---
@@ -39,7 +39,7 @@ if the input is valid it will proceed and if not it goes to exception.
 * ChatBot will give the link of the recorded session for the class which was selected by the user.
 <br/>
 
-* if the input is valid it will proceed and if not it goes to exception.
+##### if the input is valid it will proceed and if not it goes to exception.
 
 ### Six step
 ---
