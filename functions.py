@@ -5,7 +5,7 @@
 4.give list of courses from vedic with coach name and info of that course and ask user to select course
 5.give sessions names realated to users selection and ask user to select the session number 
 6.privode session link to user 
-7.print-if u want any other info plase contact me i will be alwas there for u
+7.print-if u want any other info plase contact me i will be always there for u
 """
 
 
