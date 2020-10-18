@@ -49,10 +49,7 @@ The ChatBot that we had implimented can give the list of all courses from the VE
 ![Block Diagram of the Chat Bot](https://github.com/Nityak25/Course/blob/main/block.png?raw=true)
 
 ## Here are some performance pictures of the ChatBot
-![Pictures](https://github.com/Nityak25/Course/blob/main/pic1.jpg?raw=true)
-![Pictures](https://github.com/Nityak25/Course/blob/main/pic2.jpg?raw=true)
-![Pictures](https://github.com/Nityak25/Course/blob/main/pic3.jpg?raw=true)
-![pictures](https://github.com/Nityak25/Course/blob/main/pic4.jpg?raw=true)
+![pic1](https://user-images.githubusercontent.com/72606000/96372951-1bd2f780-1187-11eb-9a68-bcd4cac4bd81.jpg)
 
 
 ## Youtube link for the demo video of the Chatbot
