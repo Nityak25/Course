@@ -50,7 +50,7 @@ The ChatBot that we had implimented can give the list of all courses from the VE
 * It will tell to the user that "You can access me at any time if want any information".
 
 ## Block Diagram of ChatBot
-![Block Diagram of the Chat Bot](https://github.com/Nityak25/Course/blob/main/block.png?raw=true)
+![block diagram](https://user-images.githubusercontent.com/72606000/96373170-4c676100-1188-11eb-9f06-a684a707ef7a.jpg)
 
 ## Here are some performance pictures of the ChatBot
 ![pic1](https://user-images.githubusercontent.com/72606000/96372951-1bd2f780-1187-11eb-9a68-bcd4cac4bd81.jpg)
