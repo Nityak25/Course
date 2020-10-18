@@ -60,8 +60,7 @@ The ChatBot that we had implimented can give the list of all courses from the VE
 
 
 
-## Youtube link for the demo video of the Chatbot
-https://youtu.be/hYlryATgiLI
+
 
 
 
