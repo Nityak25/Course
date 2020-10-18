@@ -40,7 +40,7 @@ def linkgetter(course_num):
     
 
     #PCB Design Workshop
-    else:
+    elif num==1:
         link=["https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjEyNWJkMGItMmVmNS00M2YzLTg3YTAtMWRiZTA3MmMzOWFi%40thread.v2/0?context=%7b%22Tid%22%3a%2283187130-08a6-47ca-9d15-94facab49d99%22%2c%22Oid%22%3a%22582ccf99-7f9c-444d-a5c6-eacab40021b0%22%2c%22IsBroadcastMeeting%22%3atrue%7d","https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGJiYmE2YzUtNjAzNS00YmQ1LTk2NTctZjcyMzhkMTgxOWQ0%40thread.v2/0?context=%7b%22Tid%22%3a%2283187130-08a6-47ca-9d15-94facab49d99%22%2c%22Oid%22%3a%22582ccf99-7f9c-444d-a5c6-eacab40021b0%22%2c%22IsBroadcastMeeting%22%3atrue%7d","https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2JjNGUxMzAtNjU4Yy00MzdkLWFkN2UtMjJlODg5NmM4OGZh%40thread.v2/0?context=%7b%22Tid%22%3a%2283187130-08a6-47ca-9d15-94facab49d99%22%2c%22Oid%22%3a%22582ccf99-7f9c-444d-a5c6-eacab40021b0%22%2c%22IsBroadcastMeeting%22%3atrue%7d","https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTJkZGIzZDYtNTFlYi00MWIyLTljM2MtYzFkZjQ3NDM1ZmIw%40thread.v2/0?context=%7b%22Tid%22%3a%2283187130-08a6-47ca-9d15-94facab49d99%22%2c%22Oid%22%3a%22582ccf99-7f9c-444d-a5c6-eacab40021b0%22%2c%22IsBroadcastMeeting%22%3atrue%7d"]
     
     
@@ -120,7 +120,7 @@ def course_info(course_num):
 
 
     #PCB Design Workshop
-    else:
+    elif course_num==1:
          print("*** Welcome to PCB Design *** - by Teja")
          print()
          print("PCB design includes how to design a PCB by including different electonic materials like sensors")
