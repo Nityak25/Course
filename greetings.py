@@ -7,9 +7,9 @@ def course_displayer():
     print()
 
     #it will give info related to user's selected course and classes info
-    if course_num<=5 and course_num>=1:
+    try:
         course_info(course_num)
-    else:
+    except:
         print("Sorry you have selected a wrong course number")
 #introduction of bot user
 print("Welcome to learningbot I can provide information related to all the courses in vedic along with their sessions links :)")
