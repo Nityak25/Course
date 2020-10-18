@@ -78,7 +78,7 @@ def course_info(course_num):
         print()
         print("You can get all about HTML,CSS,Bootstrap,Javascript ")
         print()
-        classname=["Class one: Introducing the web development and HTML(tags) from roots.","Class two: Introducing CSS by styling the web pages by making a web page as assignment","Class three: Introducing Bootstrap by building a responsive web pages and an assignment","Class four: Practicing building webpages by using HTML,CSS,Bootstrap.","Class five: Getting excited to learn new things in HTML,CSS,Bootstrap.","Class six: Introducing Javascript with a calculator working assignment."]
+        classname=["Class 1: Introducing the web development and HTML(tags) from roots.","Class 2: Introducing CSS by styling the web pages by making a web page as assignment","Class 3: Introducing Bootstrap by building a responsive web pages and an assignment","Class 4: Practicing building webpages by using HTML,CSS,Bootstrap.","Class 5: Getting excited to learn new things in HTML,CSS,Bootstrap.","Class 6: Introducing Javascript with a calculator working assignment."]
         
 
 
@@ -89,7 +89,7 @@ def course_info(course_num):
         print()
         print("Chatbots have developed significantly with the introduction of products such as Siri, Cortana, and Google Assistant.")
         print()
-        classname=["Class one: Introduction to Chatbots Your first Chatbot","Class two: Building Chatbots with DialogFlow and Deploying to Google Assistant"]
+        classname=["Class 1: Introduction to Chatbots Your first Chatbot","Class 2: Building Chatbots with DialogFlow and Deploying to Google Assistant"]
         
 
 
@@ -101,7 +101,7 @@ def course_info(course_num):
         print()
         print("Full stack development includes pretty much any project where you're working on (or building) both the front and back end of a site or app at the same time.")
         print()
-        classname=["Class one: Course Introduction and Revision","Class two: Introduction to Javascript","Class three: Introduction to Node Js","Class four: Understanding Node Js CAll back functions","Class five: Understanding API's","Class six: Introduction to Chatbots","Class seven: Building Telegram Chatbots with API's","Class eight: Getting Started with No SQL Database","Class nine: Connecting MongoDB in Telegram Chatbots","Class ten: Building Web Applications with Express Js","Class eleven: Building Web Applications with Node Js"]
+        classname=["Class 1: Course Introduction and Revision","Class 2: Introduction to Javascript","Class 3: Introduction to Node Js","Class 4: Understanding Node Js CAll back functions","Class 5: Understanding API's","Class 6: Introduction to Chatbots","Class 7: Building Telegram Chatbots with API's","Class 8: Getting Started with No SQL Database","Class 9: Connecting MongoDB in Telegram Chatbots","Class 10: Building Web Applications with Express Js","Class 11: Building Web Applications with Node Js"]
         
 
 
@@ -112,7 +112,7 @@ def course_info(course_num):
         print()
         print("Python Skills. If we intend to leverage Python in order to perform machine learning, having some base understanding of Python is crucial.")
         print()
-        classname=["Class one: ML Introduction","Class two: Python-Getting Acquainted","Class three: Designing our first Python Project","Class four: Design Thinking-Industry Expert Perspective"]
+        classname=["Class 1: ML Introduction","Class 2: Python-Getting Acquainted","Class 3: Designing our first Python Project","Class 4: Design Thinking-Industry Expert Perspective"]
         
 
 
@@ -124,7 +124,7 @@ def course_info(course_num):
          print()
          print("PCB design includes how to design a PCB by including different electonic materials like sensors")
          print()
-         classname=["Class one: Information about PCB and it's uses","Class two: Steps involved in circuit design","Class three: Reading Datasheet and Start to draw a simple Schematic using some sensors","Class four: Pullup resistors,Decoupling capacitors,PCB Power,Adafruit,EEVBlog"]
+         classname=["Class 1: Information about PCB and it's uses","Class 2: Steps involved in circuit design","Class 3: Reading Datasheet and Start to draw a simple Schematic using some sensors","Class 4: Pullup resistors,Decoupling capacitors,PCB Power,Adafruit,EEVBlog"]
 
     
 
