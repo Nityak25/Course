@@ -3,11 +3,11 @@ def course_displayer():
     for i in range(len(d)):
         print(d[i])
         print()
-    course_num=int(input("Please select a course number that you want to learn"))
-    print()
+    #print()
 
     #it will give info related to user's selected course and classes info
     try:
+        course_num=int(input("Please select a course number that you want to learn"))
         course_info(course_num)
     except:
         print("Sorry you have selected a wrong course number")
