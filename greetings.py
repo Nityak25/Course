@@ -3,19 +3,13 @@ def course_displayer():
     for i in range(len(d)):
         print(d[i])
         print()
-    #print()
+    course_num=int(input("Please select a course number that you want to learn ::> "))
 
     #it will give info related to user's selected course and classes info
-    try:
-        course_num=int(input("Please select a course number that you want to learn"))
-    except:
-        print("Sorry you have selected a number which is not an integer")
+    if course_num<=5 and course_num>=1:
+        course_info(course_num)
     else:
-        if(1<=course_num<=5):
-            course_info(course_num)
-        else:
-            print("Please enter a valid integer")
-        
+        print("Sorry you have selected a wrong course number :(")
 def greetings():
     
     print("Welcome to learningbot I can provide information related to all the courses in vedic along with their sessions links :)")
