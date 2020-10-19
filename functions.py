@@ -27,7 +27,7 @@ def linkgetter(course_num):
 
 
     #Full Stack Web Development with Node js
-    elif course_num==3:
+    elif course_num==3 :
         link=["https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDc3Y2QwZTctOTQ5ZS00ZjhhLTk2ODMtNGJhNTI4MWZlNjYy%40thread.v2/0?context=%7b%22Tid%22%3a%2283187130-08a6-47ca-9d15-94facab49d99%22%2c%22Oid%22%3a%22582ccf99-7f9c-444d-a5c6-eacab40021b0%22%2c%22IsBroadcastMeeting%22%3atrue%7d","https://youtu.be/BcFb8HWKupI","https://youtu.be/dTSPbW-FCRE","https://youtu.be/C5FFsBLWcME","https://youtu.be/uwAsEB6AegU","https://youtu.be/TE8N9M_KnFc","https://youtu.be/V9yrSVkAUks","https://youtu.be/YxWZhTUGkCk","https://youtu.be/TAwcv9x1T28","https://youtu.be/Qi7SV2nWjOU","https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzQ1NmIzYTUtY2M4MC00ODY1LTk0YzctZjE2ODllZmYxNDA3%40thread.v2/0?context=%7b%22Tid%22%3a%2283187130-08a6-47ca-9d15-94facab49d99%22%2c%22Oid%22%3a%22582ccf99-7f9c-444d-a5c6-eacab40021b0%22%2c%22IsBroadcastMeeting%22%3atrue%7d"]
     
     
