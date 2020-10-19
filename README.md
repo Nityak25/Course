@@ -4,7 +4,7 @@
 ## Team members:
 1.N.Badari Narayana - 18pa1a04a3<br/>
 2.K.Nitya Sujana - 18pa1a1225<br/>
-3.Karthik - 19pa1a05d4
+3.P.Karthik - 19pa1a05d4
 
 ## Youtube link for the demo video of the Chatbot
 https://youtu.be/hYlryATgiLI
