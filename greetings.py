@@ -10,16 +10,21 @@ def course_displayer():
         course_info(course_num)
     else:
         print("Sorry you have selected a wrong course number :(")
+        
+    
 def greetings():
     
     print("Welcome to learningbot I can provide information related to all the courses in vedic along with their sessions links :)")
     print()
+    
     #asking user name and greeting him
     name=input("May I know your name? please!")
     print()
     print("Hi! "+name.upper()+" a very warm welcome to you")
     print()
     course_displayer()
+    
+    
 #introduction of bot user
 greetings()
  
