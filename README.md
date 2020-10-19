@@ -11,19 +11,19 @@ https://youtu.be/hYlryATgiLI
 
 
 ## Description of the Chat Bot
-The ChatBot that we had implimented can give the list of all courses from the VEDIC platform and also gives the recorded session links for all the courses
+The ChatBot that we had implemented can give the list of all courses from the VEDIC platform and also gives the recorded session links for all the courses
 
 ## Working of the Chat Bot
 ### First step
 ---
 * By greeting() function it welcomes you to the chat bot<br/>
 
-* The ChatBot introduces itself by telling it's name and by telling what it can do for user to the user with an welcome message.
+* The ChatBot introduces itself by telling it's name and by telling what it can do for user with an welcome message.
 
 ### Second step
 ---
 * ChatBot will ask the name of the user<br/>
-* After entering the name of user ChatBot will greats the user with his/her name. Here in this greating we are highliting the name of user in capital letters for best view.
+* After entering the name of user ChatBot will greets the user with his/her name. Here in this greeting we are highlighting the name of user in capital letters for better view.
 
 ### Third step
 ---
@@ -31,7 +31,7 @@ The ChatBot that we had implimented can give the list of all courses from the VE
  * ChatBot will listout the courses list of VEDIC platform with numbering and it also asks user to enter course number of which course he/she wants to do.
 <br/>
  
-##### if the input is valid it will proceed and if not it goes to exception.
+##### if the input is valid it will proceed and if not it goes exception.
 
 ### Fourth step
 ---
@@ -43,7 +43,7 @@ The ChatBot that we had implimented can give the list of all courses from the VE
 * ChatBot will give the link of the recorded session for the class which was selected by the user.
 <br/>
 
-##### if the input is valid it will proceed and if not it goes to exception.
+##### if the input is valid it will proceed and if not it goes exception.
 
 ### Six step
 ---
