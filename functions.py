@@ -58,7 +58,7 @@ def linkgetter(course_num):
         print("Recorded video link of class you have selected is here :")
         print("           "+class_link)
         print()
-        print("If you want any other information plase contact me i am available always for u")
+        print("If you want any other information plase contact me i am available always for u :)")
 
     except:
         print("Sorry you have choosen a wrong class number")
@@ -74,7 +74,7 @@ def course_info(course_num):
 
     #WEB DEVELOPMENT BOOTCAMP
     if course_num==2:
-        print("*** Welcome to Become a Web development pro with these skills...!*** - by Prashanth")
+        print("*** Welcome to Become a Web development pro with these skills...! *** - by Prashanth")
         print()
         print("You can get all about HTML,CSS,Bootstrap,Javascript ")
         print()
@@ -85,7 +85,7 @@ def course_info(course_num):
 
     #Building Chatbots with Google Assistant Workshop
     elif course_num==4:
-        print("***Welcome to building chatbots! workshop *** -by Prashanth")
+        print("*** Welcome to building chatbots! workshop *** -by Prashanth")
         print()
         print("Chatbots have developed significantly with the introduction of products such as Siri, Cortana, and Google Assistant.")
         print()
@@ -120,7 +120,7 @@ def course_info(course_num):
 
     #PCB Design Workshop
     else:
-         print("*** Welcome to PCB Design *** - by Teja")
+         print("***  Welcome to PCB Design  *** - by Teja")
          print()
          print("PCB design includes how to design a PCB by including different electonic materials like sensors")
          print()
