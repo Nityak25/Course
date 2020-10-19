@@ -117,7 +117,7 @@ def course_info(course_num):
 
     #Building Chatbots with Google Assistant Workshop
     elif course_num==4:
-        print("***Welcome to building chatbots! workshop *** -by Prashanth")
+        print("*** Welcome to building chatbots! workshop *** -by Prashanth")
         print()
         print("Chatbots have developed significantly with the introduction of products such as Siri, Cortana, and Google Assistant.")
         print()
