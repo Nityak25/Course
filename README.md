@@ -62,6 +62,8 @@ The ChatBot that we had implemented can give the list of all courses from the VE
 
 
 
-
+## Reference Links we used for Project
+www.vedic.dev  
+https://youtu.be/vIp3Uz4DG2c
 
 
