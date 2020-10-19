@@ -35,11 +35,11 @@ The ChatBot that we had implemented can give the list of all courses from the VE
 
 ### Fourth step
 ---
-* By Course_info() function we can get all about course and classes and user have to select the class
+* By Course_info() function we can get all about course and classes and user have to select the class.
 
 ### Five step
 ---
-* By Linkgetter() function we can get class link<br/> 
+* By Linkgetter() function we can get class link.<br/> 
 * ChatBot will give the link of the recorded session for the class which was selected by the user.
 <br/>
 
